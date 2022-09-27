@@ -1,0 +1,17 @@
+main {
+  width: 90%;
+  margin: 10px auto;
+}
+.card {
+  width: 18%;
+}
+
+.card img {
+  height: 230px;
+  width: 230px;
+}
+
+.card h5,
+.card p {
+  text-align: center;
+}

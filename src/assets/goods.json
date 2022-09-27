@@ -1,0 +1,9 @@
+{
+  "goodsList": [
+    { "name": "Apple", "price": 100, "image": "assets/img/apple.png" },
+    { "name": "Banana", "price": 120, "image": "assets/img/banana.png" },
+    { "name": "Cherry", "price": 80, "image": "assets/img/cherry.png" },
+    { "name": "Orange", "price": 90, "image": "assets/img/orange.png" },
+    { "name": "Raspberry", "price": 100, "image": "assets/img/raspberry.png" }
+  ]
+}
